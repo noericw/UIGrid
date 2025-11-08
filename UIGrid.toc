@@ -1,0 +1,8 @@
+## Interface: 11503
+## Title: UIGrid
+## Notes: Toggle a grid overlay to align UI elements
+## Author: noeric
+## Version: 1.0
+## SavedVariables: UIGridDB
+
+UIGrid.lua
